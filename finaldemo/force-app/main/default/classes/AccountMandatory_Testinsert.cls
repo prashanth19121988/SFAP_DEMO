@@ -1,6 +1,6 @@
 @isTest
 public class AccountMandatory_Testinsert {
-    //Merge from Dev to Master
+    //Merge from Dev to release
     /*@isTest
     public static void  testCASEOBJINSERT(){
         try{
